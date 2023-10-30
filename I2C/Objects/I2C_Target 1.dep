@@ -1,0 +1,68 @@
+Dependencies for Project 'I2C', Target 'Target 1': (DO NOT MODIFY !)
+F (.\gpio_drive.c)(0x65394410)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\gpio_drive.o --omf_browse .\objects\gpio_drive.crf --depend .\objects\gpio_drive.d)
+I (gpio_drive.h)(0x6538D647)
+F (.\gpio_drive.h)(0x6538D647)()
+F (.\lcd_1602_drive.c)(0x653E2AED)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\lcd_1602_drive.o --omf_browse .\objects\lcd_1602_drive.crf --depend .\objects\lcd_1602_drive.d)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AD876E)
+I (D:\STM32Projects\I2C\RTE\RTE_Components.h)(0x6538CE48)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AD876E)
+I (lcd_1602_drive.h)(0x653E2B0F)
+I (gpio_drive.h)(0x6538D647)
+I (systick_time.h)(0x6538D706)
+I (PCF8574_drive.h)(0x653BC980)
+I (i2c_drive.h)(0x653CC25E)
+F (.\lcd_1602_drive.h)(0x653E2B0F)()
+F (.\systick_time.c)(0x6538E663)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\systick_time.o --omf_browse .\objects\systick_time.crf --depend .\objects\systick_time.d)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AD876E)
+I (D:\STM32Projects\I2C\RTE\RTE_Components.h)(0x6538CE48)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AD876E)
+I (systick_time.h)(0x6538D706)
+F (.\systick_time.h)(0x6538D706)()
+F (.\main.c)(0x653E5194)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (systick_time.h)(0x6538D706)
+I (lcd_1602_drive.h)(0x653E2B0F)
+I (gpio_drive.h)(0x6538D647)
+F (.\PCF8574_drive.c)(0x653CA2DD)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\pcf8574_drive.o --omf_browse .\objects\pcf8574_drive.crf --depend .\objects\pcf8574_drive.d)
+I (PCF8574_drive.h)(0x653BC980)
+I (i2c_drive.h)(0x653CC25E)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AD876E)
+I (D:\STM32Projects\I2C\RTE\RTE_Components.h)(0x6538CE48)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AD876E)
+I (gpio_drive.h)(0x6538D647)
+F (.\i2c_drive.c)(0x653CC521)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\i2c_drive.o --omf_browse .\objects\i2c_drive.crf --depend .\objects\i2c_drive.d)
+I (i2c_drive.h)(0x653CC25E)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AD876E)
+I (D:\STM32Projects\I2C\RTE\RTE_Components.h)(0x6538CE48)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AD876E)
+I (gpio_drive.h)(0x6538D647)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x5FC05DFA)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x61AD876E)(--cpu Cortex-M3 -g --apcs=interwork -I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x61AD876E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I D:\STM32Projects\I2C\RTE-I D:\STM32Projects\I2C\RTE\Device\STM32F103C8-I C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-I C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61AD876E)
+I (D:\STM32Projects\I2C\RTE\RTE_Components.h)(0x6538CE48)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (C:\Users\duong\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61AD876E)
